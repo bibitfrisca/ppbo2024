@@ -65,7 +65,7 @@ class Book
         ];
     }
 
-    public function detail($ISBN):
+    public function detail($ISBN)
     {
         if ($this->ISBN == $ISBN) {
             return $this->showAll();
