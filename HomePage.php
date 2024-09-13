@@ -2,7 +2,7 @@
 class HomePage
 {
     function tampil() : void {
-        echo "Halaman depan guest";
+        echo "Halaman Depan Guest";
     }
 }
 
@@ -10,7 +10,7 @@ class HomePage
 class HomePage
 {
     function tampil() : void {
-        echo "Halaman depan admin";
+        echo "Halaman Depan Admin";
     }
 }
 
